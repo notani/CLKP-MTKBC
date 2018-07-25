@@ -1,0 +1,117 @@
+# 2017/04/11
+rel	surfaceText	freq
+/r/Antonym	[[start]] is the opposite of [[end]]	4556
+/r/AtLocation	You are likely to find [[start]] in [[end]]	11391
+/r/AtLocation	Something you find in [[end]] is [[start]]	2250
+/r/AtLocation	Something you find at [[end]] is [[start]]	2228
+/r/AtLocation	Something you find on [[end]] is [[start]]	765
+/r/AtLocation	You are likely to find [[start]] in [[end]].	456
+/r/AtLocation	Somewhere [[start]] can be is in [[end]]	255
+/r/AtLocation	Something you find under [[end]] is [[start]]	183
+/r/AtLocation	Somewhere [[start]] can be is on [[end]]	96
+/r/AtLocation	Somewhere [[start]] can be is [[end]]	33
+/r/AtLocation	You are likely to find [[start]] on [[end]]	15
+/r/AtLocation	In [[end]], you can [[start]]	7
+/r/AtLocation	You are likely to find [[start]] at [[end]]	6
+/r/AtLocation	[[start]] can be at [[end]]	4
+/r/AtLocation	Something you find in [[end]] is [[start]]]	1
+/r/AtLocation	You are likely to find [[start]] near [[end]]	1
+/r/CapableOf	[[start]] can [[end]]	8958
+/r/CapableOf	An activity [[start]] can do is [[end]]	426
+/r/CapableOf	[[start]] can [[end]].	233
+/r/CapableOf	[[start]] may [[end]]	160
+/r/CapableOf	[[start]] often [[end]]	25
+/r/CapableOf	[[start]] sometimes [[end]]	9
+/r/Causes	Sometimes [[start]] causes [[end]]	128
+/r/Causes	The effect of [[start]] is [[end]].	121
+/r/Causes	Something that might happen as a consequence of [[start]] is [[end]]	47
+/r/Causes	The effect of [[start]] is [[end]]	5
+/r/Causes	Sometimes [[start]] causes you to [[end]]	2
+/r/CausesDesire	[[start]] would make you want to [[end]]	1800
+/r/CreatedBy	[[start]] is created by [[end]].	136
+/r/DefinedAs	[[start]] is the [[end]]	1286
+/r/DefinedAs	[[start]] is the [[end]].	131
+/r/DefinedAs	[[start]] can be defined as [[end]]	7
+/r/Desires	[[start]] wants [[end]]	937
+/r/Desires	[[start]] wants to [[end]]	606
+/r/Desires	[[start]] like to [[end]]	19
+/r/DistinctFrom	[[start]] is not [[end]]	1921
+/r/HasA	[[start]] has [[end]]	820
+/r/HasA	[[start]] contains [[end]]	212
+/r/HasA	[[start]] have [[end]]	104
+/r/HasFirstSubevent	The first thing you do when you [[start]] is [[end]]	1539
+/r/HasLastSubevent	The last thing you do when you [[start]] is [[end]]	1426
+/r/HasLastSubevent	The last thing you do when you [[end]] is [[end]]	1
+/r/HasPrerequisite	If you want to [[start]] then you should [[end]]	6576
+/r/HasPrerequisite	Something you need to do before you [[start]] is [[end]]	1298
+/r/HasPrerequisite	[[start]] requires [[end]]	158
+/r/HasPrerequisite	If you want to [[end]] then you should [[end]]	2
+/r/HasProperty	[[start]] is [[end]]	3258
+/r/HasProperty	[[start]] can be [[end]]	411
+/r/HasProperty	[[start]] are [[end]]	165
+/r/HasProperty	[[start]] is generally [[end]]	62
+/r/HasSubevent	One of the things you do when you [[start]] is [[end]]	1752
+/r/HasSubevent	Something that might happen when you [[start]] is [[end]]	1067
+/r/HasSubevent	One of the things you do when you [[start]] is [[end]].	29
+/r/HasSubevent	Something you might do while [[start]] is [[end]]	12
+/r/HasSubevent	Something that might happen while [[start]] is [[end]]	1
+/r/InstanceOf	[[start]] is an example of [[end]]	1
+/r/InstanceOf	[[start]] is an instance of [[end]]	1
+/r/IsA	[[start]] is [[end]]	11284
+/r/IsA	[[start]] is a kind of [[end]].	738
+/r/IsA	[[start]] was [[end]]	494
+/r/IsA	[[start]] is a type of [[end]]	415
+/r/IsA	[[start]] is a kind of [[end]]	337
+/r/IsA	[[start]] is a type of [[end]].	314
+/r/IsA	[[start]] are [[end]]	141
+/r/IsA	[[start]] is a [[end]]	53
+/r/IsA	A [[start]] is a [[end]]	1
+/r/LocatedNear	[[start]] is typically near [[end]]	41
+/r/MadeOf	[[start]] is made of [[end]].	257
+/r/MadeOf	[[start]] is made of [[end]]	25
+/r/MadeOf	[[start]] can be made of [[end]]	15
+/r/MadeOf	[[start]] may be made of [[end]]	5
+/r/MadeOf	[[start]] may be made from [[end]]	1
+/r/MotivatedByGoal	You would [[start]] because you want to [[end]]	1517
+/r/MotivatedByGoal	You would [[start]] because you want [[end]]	728
+/r/MotivatedByGoal	You would [[start]] because [[end]]	153
+/r/MotivatedByGoal	If you want to [[end]] then you should [[start]]	2
+/r/MotivatedByGoal	You would [[start]] because you [[end]]	1
+/r/NotCapableOf	[[start]] do not [[end]]	17
+/r/NotDesires	[[start]] doesn't want [[end]]	696
+/r/NotDesires	[[start]] doesn't want to [[end]]	651
+/r/NotDesires	[[start]] does not want [[end]]	2
+/r/NotDesires	[[start]] does not want to [[end]]	2
+/r/NotHasProperty	[[start]] is not [[end]]	232
+/r/PartOf	[[start]] is part of [[end]]	893
+/r/PartOf	[[start]] is part of [[end]].	370
+/r/PartOf	[[end]] has [[start]]	9
+/r/PartOf	[[start]] has [[end]]	1
+/r/ReceivesAction	[[start]] is [[end]]	48
+/r/ReceivesAction	[[start]] can be [[end]]	41
+/r/ReceivesAction	[[start]] are [[end]]	3
+/r/RelatedTo	[[start]] is related to [[end]]	108997
+/r/SymbolOf	[[start]] is a symbol of [[end]]	3
+/r/Synonym	[[start]] is a synonym of [[end]]	1
+/r/UsedFor	You can use [[start]] to [[end]]	4219
+/r/UsedFor	[[start]] is for [[end]]	1660
+/r/UsedFor	[[start]] is used for [[end]]	1007
+/r/UsedFor	[[start]] is used to [[end]]	371
+/r/UsedFor	[[start]] can be used to [[end]]	156
+/r/UsedFor	[[start]] is used for [[end]].	53
+/r/UsedFor	[[start]] are used to [[end]]	28
+/r/UsedFor	[[start]] is for [[end]].	17
+/r/UsedFor	[[start]] may be used to [[end]]	6
+/r/UsedFor	[[start]] can be used for [[end]]	5
+/r/UsedFor	When you want to [[end]], you will use [[start]]	4
+/r/UsedFor	You can use [[start]] to [[end]]]	2
+/r/EtymologicallyRelatedTo	[[start]] is etymologically related to [[end]]	0
+/r/DerivedFrom	[[start]] is derived from [[end]]	0
+/r/Entails	[[start]] entails [[end]]	0
+/r/ExternalURL	[[end]] is an external url of [[start]]	0
+/r/FormOf	[[start]] is a form of [[end]]	0
+/r/HasContext	[[start]] has a context of [[end]]	0
+/r/MannerOf	[[start]] is a way to [[end]]	0
+/r/ObstructedBy	[[start]] is a goal that can be prevented by [[end]]	0
+/r/SenseOf	[[start]] is a sense of [[end]]	0
+/r/SimilarTo	[[start]] is similar to [[end]]	0

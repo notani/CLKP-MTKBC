@@ -1,0 +1,38 @@
+# 2017/08/25
+rel	surfaceText	freq
+/r/AtLocation	你可以在 [[end]] 找到 [[start]]。	12827
+/r/AtLocation	[[end]] 有 [[start]]。	10681
+/r/AtLocation	[[start]] 在 [[end]]裡。	2353
+/r/AtLocation	[[start]] 在 [[end]]外。	1942
+/r/AtLocation	[[start]] 在 [[end]]下。	1807
+/r/CapableOf	[[start]] 能做的事情有 [[end]]。	13317
+/r/CapableOf	[[start]] 會 [[end]]。	12195
+/r/Causes	[[start]] 會讓你 [[end]]。	19616
+/r/Causes	因為 [[start]] 所以 [[end]]。	19553
+/r/Causes	[[start]] 可能會帶來 [[end]]。	14853
+/r/Causes	[[start]] 之後可能會發生的事情是 [[end]]。	8777
+/r/Causes	[[start]] 可能會引起 [[end]]。	5813
+/r/CausesDesire	[[start]] 會讓你想要 [[end]] 。	18892
+/r/Desires	[[start]] 想要 [[end]]。	14197
+/r/Desires	[[start]] 不想要 [[end]]。	9804
+/r/Desires	[[start]] 懼怕 [[end]]。	6716
+/r/Desires	[[start]] 喜歡 [[end]]。	5720
+/r/Desires	[[start]] 痛恨 [[end]]。	5079
+/r/HasFirstSubevent	[[start]] 的時候，首先要 [[end]] 。	11699
+/r/HasProperty	[[start]] 是 [[end]] 的。	6781
+/r/HasSubevent	[[start]] 的時候，你會 [[end]]。	16977
+/r/HasSubevent	在 [[start]]，你會 [[end]]。	10917
+/r/HasSubevent	[[end]] 可能代表 [[start]] 。	10435
+/r/IsA	[[start]] 是一種 [[end]]。	15924
+/r/MadeOf	[[start]] 可以用 [[end]] 製成。	7407
+/r/MadeOf	[[start]] 由 [[end]] 組成。	3483
+/r/MadeOf	[[start]] 的原料是 [[end]]。	2184
+/r/MadeOf	[[end]] 可以拿來做成 [[start]]。	1465
+/r/MotivatedByGoal	當你想要 [[end]] 的時候你可能會 [[start]]。	13340
+/r/MotivatedByGoal	你會 [[start]] 因為你 [[end]]。	10151
+/r/MotivatedByGoal	[[end]] 的時候會想要 [[start]]。	9855
+/r/MotivatedByGoal	[[start]] 是為了 [[end]]。	9741
+/r/MotivatedByGoal	想要有 [[end]] 應該要 [[start]]。	9207
+/r/PartOf	[[start]] 是 [[end]] 的一部分。	6137
+/r/SymbolOf	[[start]] 代表 [[end]]。	4679
+/r/UsedFor	[[end]] 的時候可能會用到 [[start]]。	13250
